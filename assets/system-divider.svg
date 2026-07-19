@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="System divider">
+  <defs><linearGradient id="line"><stop stop-color="#3B82F6" stop-opacity="0"/><stop offset=".2" stop-color="#3B82F6" stop-opacity=".35"/><stop offset=".5" stop-color="#71717A" stop-opacity=".5"/><stop offset=".8" stop-color="#3B82F6" stop-opacity=".35"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 14h1200" stroke="url(#line)"/>
+  <circle cx="600" cy="14" r="3" fill="#3B82F6"/>
+  <circle cx="600" cy="14" r="8" fill="none" stroke="#3B82F6" stroke-opacity=".25"/>
+</svg>

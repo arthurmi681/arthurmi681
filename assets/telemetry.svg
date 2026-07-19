@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+  <title id="title">Black Void operating telemetry</title>
+  <desc id="desc">Public repositories, core venture, operating status, and focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07090C"/><stop offset=".5" stop-color="#0A0D12"/><stop offset="1" stop-color="#07090C"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="130" rx="14" fill="url(#bg)" stroke="#272A31"/>
+  <path d="M300 22v88M600 22v88M900 22v88" stroke="#272A31"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(36 0)"><text y="43" fill="#71717A" font-size="10" letter-spacing="2">PUBLIC SYSTEMS</text><text y="88" fill="#F4F4F5" font-size="30" font-weight="650">16</text><text x="46" y="87" fill="#3B82F6" font-size="11">REPOSITORIES</text></g>
+    <g transform="translate(336 0)"><text y="43" fill="#71717A" font-size="10" letter-spacing="2">CORE VENTURE</text><text y="88" fill="#F4F4F5" font-size="24" font-weight="650">BLACK VOID</text></g>
+    <g transform="translate(636 0)"><text y="43" fill="#71717A" font-size="10" letter-spacing="2">OPERATING STATUS</text><circle cx="7" cy="79" r="5" fill="#22C55E"/><text x="23" y="87" fill="#F4F4F5" font-size="24" font-weight="650">BUILDING</text></g>
+    <g transform="translate(936 0)"><text y="43" fill="#71717A" font-size="10" letter-spacing="2">PRIMARY VECTOR</text><text y="88" fill="#F4F4F5" font-size="24" font-weight="650">AI / AUTO</text></g>
+  </g>
+</svg>
